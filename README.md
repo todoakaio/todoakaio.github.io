@@ -1,2 +1,2 @@
 # todoakaio.github.io
-allred xyz
+This is a custom parking page for Allred.xyz.
